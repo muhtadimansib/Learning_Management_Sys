@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C237AD-EFBC-4462-9022-4BBD326E1D41}|AppLayer\\AppLayer.csproj|g:\\aiub\\fall 24-25\\.net\\learningmanagementsys\\applayer\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C237AD-EFBC-4462-9022-4BBD326E1D41}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296053F1-7B19-499A-ACC4-A686C5E8BB14}|BLL\\BLL.csproj|g:\\aiub\\fall 24-25\\.net\\learningmanagementsys\\bll\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296053F1-7B19-499A-ACC4-A686C5E8BB14}|BLL\\BLL.csproj|solutionrelative:bll\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C237AD-EFBC-4462-9022-4BBD326E1D41}|AppLayer\\AppLayer.csproj|g:\\aiub\\fall 24-25\\.net\\learningmanagementsys\\applayer\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C237AD-EFBC-4462-9022-4BBD326E1D41}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C237AD-EFBC-4462-9022-4BBD326E1D41}|AppLayer\\AppLayer.csproj|g:\\aiub\\fall 24-25\\.net\\learningmanagementsys\\applayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C237AD-EFBC-4462-9022-4BBD326E1D41}|AppLayer\\AppLayer.csproj|solutionrelative:applayer\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296053F1-7B19-499A-ACC4-A686C5E8BB14}|BLL\\BLL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296053F1-7B19-499A-ACC4-A686C5E8BB14}|BLL\\BLL.csproj|solutionrelative:bll\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\dal\\repos\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\enrollmentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\dal\\repos\\studentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\studentrepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\dal\\interfaces\\istudentfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE1118-7E77-4C7E-A81A-E32DD0F6225B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\istudentfeatures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{296053F1-7B19-499A-ACC4-A686C5E8BB14}|BLL\\BLL.csproj|G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\bll\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{296053F1-7B19-499A-ACC4-A686C5E8BB14}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\enrollmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\AppLayer\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\AppLayer\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:10:59.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\BLL\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\EnrollmentService.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\BLL\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "BLL\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:10:11.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\AppLayer\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\CourseController.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\AppLayer\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T04:09:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:04:21.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:37:35.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentFeatures.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Interfaces\\IStudentFeatures.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IStudentFeatures.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Interfaces\\IStudentFeatures.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IStudentFeatures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:37:23.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnrollmentDTO.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\BLL\\DTOs\\EnrollmentDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\EnrollmentDTO.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\BLL\\DTOs\\EnrollmentDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\EnrollmentDTO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:22:41.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\BLL\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\StudentService.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\BLL\\Services\\StudentService.cs",
+              "RelativeToolTip": "BLL\\Services\\StudentService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAADsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:20:50.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\AppLayer\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "AppLayer\\Controllers\\StudentController.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\AppLayer\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "AppLayer\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAADYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:17:23.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnrollmentRepo.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Repos\\EnrollmentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\EnrollmentRepo.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Repos\\EnrollmentRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\EnrollmentRepo.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:42:33.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentRepos.cs",
+              "DocumentMoniker": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Repos\\StudentRepos.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\StudentRepos.cs",
+              "ToolTip": "G:\\AIUB\\Fall 24-25\\.NET\\LearningManagementSys\\DAL\\Repos\\StudentRepos.cs",
+              "RelativeToolTip": "DAL\\Repos\\StudentRepos.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:20:18.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
